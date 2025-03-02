@@ -40,8 +40,8 @@ def connect_to_db():
     try:
         connection = mysql.connector.connect(
             host="localhost",
-            user="root",
-            password="1234",
+            user="Your_username",
+            password="Your_PAssword",
             database="hotel"
         )
         if connection.is_connected():
