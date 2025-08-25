@@ -1,0 +1,6 @@
+Python Libraries:
+
+Mysql Connector
+Tkinter
+
+Software: MySql
